@@ -10,6 +10,8 @@ Our solution proposes an AI-powered demand forecasting system specifically desig
 - Filtering out noise from environmental factors and irrelevant data sources
 - Providing accurate demand forecasts, ensuring that only essential and relevant stock levels are maintained
 
+Voice-Controlled Dashboard: This system includes a voice-activated feature, allowing users to simply speak the name of a product and specify the month. In response, the system predicts the projected sales for the upcoming month, enhancing user interaction and accessibility. This functionality empowers local businesses with easy, on-demand access to sales forecasts, streamlining inventory decisions based on real-time, voice-controlled input.
+
 By focusing on granular, real-time demand prediction, this system enhances operational efficiency for hyperlocal delivery services, reduces waste, and improves customer satisfaction.
 
 ---
